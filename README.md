@@ -1,2 +1,2 @@
 # ml-datasets
-ML Datasets for classification and regression
+This repo contains ML Datasets for classification and regression tasks
